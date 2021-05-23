@@ -7,4 +7,13 @@ Los primeros son los que denominamos "ruteros". Estos usuarios pueden crear, mod
 
 Los segundos son las "empresas". Estas pueden crear rutas, pero haciendo uso de dinero real. Además pueden crear sus propios descuentos, los cuales podrán ser canjeados por los usuarios mendiante puntos en una seccion del Marketplace. Estos descuentos generán un código válido solo en la empresa, para el producto para el cual fue creado. 
 
-*Developed by PINeapple*
+*Desarrollado por PINeapple:*
+
+    -Manuel Gregorio (https://github.com/Juvemanu)
+    -Francisco García Gonzálvez (https://github.com/Franciscoggonzalvez)
+    -Alejandro Lozano (https://github.com/Xiphereal)
+    -Ricardo Soler (https://github.com/risobac)
+    -Jose Romero (https://github.com/JoseRom99)
+    -Matías Yael Cuda (https://github.com/smugylooky)
+    -Claudia Aldama Medina (https://github.com/ClaudiaAM)
+    -Víctor García Valero
